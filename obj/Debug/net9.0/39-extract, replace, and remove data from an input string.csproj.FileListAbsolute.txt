@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\39-extract, replace, and remove data fr
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\39-extract, replace, and remove data from an input string\obj\Debug\net9.0\39-extract, replace, and remove data from an input string.pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\39-extract, replace, and remove data from an input string\obj\Debug\net9.0\39-extract, replace, and remove data from an input string.genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\39-extract, replace, and remove data from an input string\obj\Debug\net9.0\ref\39-extract, replace, and remove data from an input string.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\39-extract, replace, and remove data from an input string\obj\Debug\net9.0\39-extract, replace, and remove data from an input string.sourcelink.json
